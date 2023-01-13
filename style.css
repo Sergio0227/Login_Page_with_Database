@@ -1,0 +1,30 @@
+html{
+    background-color: #8994AE;
+}
+
+
+.container form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -110px;
+    margin-left: -175px;
+    background-color: #373F51;
+    width: 350px;
+    height: 220px;
+    padding: 20px 40px;
+    border-radius: 10px;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+}
+
+
+
+.form-group{
+    font-family: "Segoe UI";
+}
+
+.btn-primary {
+     margin-top: 10px;
+     float: right;
+ }
