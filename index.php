@@ -3,7 +3,6 @@
         include "header.php";
 
 createRows();
-
 ?>
 
 <!DOCTYPE html>

@@ -67,6 +67,7 @@ function deleteRows()
 
 function readData()
 {
+
     global $connection;
     $query = "SELECT * FROM users";
     $result = mysqli_query($connection, $query);
